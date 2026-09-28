@@ -1,0 +1,14 @@
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\bin\Debug\net9.0-windows\Cau1.exe
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\bin\Debug\net9.0-windows\Cau1.deps.json
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\bin\Debug\net9.0-windows\Cau1.runtimeconfig.json
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\bin\Debug\net9.0-windows\Cau1.dll
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\bin\Debug\net9.0-windows\Cau1.pdb
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.AssemblyInfoInputs.cache
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.AssemblyInfo.cs
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.csproj.CoreCompileInputs.cache
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.dll
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\refint\Cau1.dll
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.pdb
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\Cau1.genruntimeconfig.cache
+D:\UTC2\Nam3\HKI\LapTrinhTrucQuan\2809\BaiTapChuong5\Cau1\obj\Debug\net9.0-windows\ref\Cau1.dll
